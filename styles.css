@@ -40,9 +40,9 @@ body {
   width: 280px;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-height: 550px) {
   .container {
-    height: 40%;
+    height: 80%;
     width: 80%;
   }
 }

@@ -23,11 +23,10 @@ body {
     min-height: 27%;
     width: 280px;
 }
-@media only screen and (max-width: 600px) {
-    .container{
-        height: 40%;
-        width: 90%;
-    
+@media only screen and (max-height: 550px) {
+    .container {
+      height: 80%;
+      width: 80%;
     }
   }
 
